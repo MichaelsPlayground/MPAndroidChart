@@ -1,3 +1,5 @@
+Note: Updates to SDK 31 and Gradle 7.0.4 and other components
+
 ![banner](https://raw.github.com/PhilJay/MPChart/master/design/feature_graphic_smaller.png)
 
 [![Release](https://img.shields.io/github/release/PhilJay/MPAndroidChart.svg?style=flat)](https://jitpack.io/#PhilJay/MPAndroidChart)

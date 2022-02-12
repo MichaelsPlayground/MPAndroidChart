@@ -1,4 +1,4 @@
-Note: Updates to SDK 31 and Gradle 7.0.4 and other components
+Note: Updated to SDK 31 and Gradle 7.0.4 and other components
 
 ![banner](https://raw.github.com/PhilJay/MPChart/master/design/feature_graphic_smaller.png)
 
